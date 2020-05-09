@@ -1,0 +1,7 @@
+#str_cluster.text contains the original sequence data in fasta format. By default there is 3 input.
+1.Run the script str_preprocess.ipynb for creating the test data. 
+2.Open and check str_test.csv for seeing the results.
+3. Each time before rerunning clear the str_test.csv data only keeping the column header. Otherwise, the test file will keep growing on same data.
+4. After generating test data, run the str_loci.ipynb script for building model and running test.
+5.The different models are inside #comments, use anyone at a single run.
+6. Run and test str_loci.ipynb script as many time requires.

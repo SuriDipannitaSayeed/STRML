@@ -1,0 +1,6 @@
+>TH01 (GenBank X14720; 12 agat repeats)
+atgcggtcctcacataatgaatgaatgaatgaatgaatgaatgaatgaatgaatggtacaaaaccttctggactaaaag
+>DYS393 (GenBank X14720; 13 agat repeats)
+ttctgcacagatattcgtataagatagatagatagatagatagatagatagatagatagatagatagatagatatttggctatgcgggatgt
+>CSF1PO (GenBank X14720; 12 agat repeats)
+agtcagggcgttaaaagtatcacaaacgaattcgactcttagatagatagatagatagatagatagatagatagatagatcccatgtcaaagatagatagatgcccctacattcacaatgaaatgctaacgtgtaagagatctcattaacca
